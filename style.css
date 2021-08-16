@@ -1,1 +1,51 @@
+html{
+  background: url(https://previews.123rf.com/images/jevee/jevee1606/jevee160600132/58016549-pastel-drawn-textured-background-in-blue-colors-blank-for-letter-or-greeting-card-a4-size-format-ser.jpg) repeat;
+             border: 8px solid brown
+       
+}    
 
+.introduction{
+  border-radius: 30%;
+  
+  
+}
+
+ body { 
+  background-image: url("https://previews.123rf.com/images/jevee/jevee1606/jevee160600132/58016549-pastel-drawn-textured-background-in-blue-colors-blank-for-letter-or-greeting-card-a4-size-format-ser.jpg"); 
+  color: #ddddd;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 5% 5%
+}
+
+img {
+  width: 40%;
+  border-radius: 25%;
+  vertical-align: baseline;
+  float: right;
+  z-index: -1;
+  filter: grayscale(0%)
+  border-bottom: 2px solid #dddddd;
+ 
+}
+
+.experience {
+  text-align: center; 
+  border-top: 1px solid #dddddddd;
+  border-bottom: 1px solid #dddddd;
+  background-color: rgba(0,0,0,0.1)
+}
+
+}
+.education {
+  text-align: center; 
+  border-top: 1px solid #dddddddd;
+  border-bottom: 1px solid #dddddd;
+  background-color: rgba(0,0,0,0.1)
+    
+}
+
+
+h3 {
+  font-size: 25px;
+  background-color: 
+}
